@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title:"Tabitha Kinyua" # the main title
+title:Tabitha Kinyua # the main title
 
-tagline: " Data Analyst | AI" # it will display as the subtitle
+tagline: Data Analyst | AI # it will display as the subtitle
 
 description: > My journey and projects in Infosec , AI and Digital Forensics # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
